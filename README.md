@@ -1,17 +1,17 @@
 # Hi there!  I'm Vitor
 
-🎓 Currently studying at **Centro Universitário Filadélfia – UniFil**  
-💻 Learning **Java** and **C**  
-🚀 Passionate about **software development**, **programming logic**, and **Artificial Intelligence**  
+ Currently studying at **Centro Universitário Filadélfia – UniFil**  
+ Learning **Java** and **C**  
+ Passionate about **software development**, **programming logic**, and **Artificial Intelligence**  
 
 ---
 
-## 🛠 Technologies & Tools
+##  Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vitor
+# Hi there!  I'm Vitor
 
 🎓 Currently studying at **Centro Universitário Filadélfia – UniFil**  
 💻 Learning **Java** and **C**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠 Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,41 +15,39 @@
 
 ---
 
-## 📚 What I'm Learning
+##  What I'm Learning
 - Java (OOP, data structures, subroutines, etc.)
 - C (basic concepts and logic)
 - Fundamentals of computer architecture and organization
 
 ---
 
-## 🎯 Next Steps
+##  Next Steps
 - Build practical projects for my portfolio
 - Study **Artificial Intelligence**
 - Learn Python and JavaScript (for AI and web applications)
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 - [Java Exercises](https://github.com/vitorchimello-tech) – Basic to advanced Java practice
 - [C Programming Basics](https://github.com/vitorchimello-tech) – My journey into C language
 - [AI Experiments](https://github.com/vitorchimello-tech) – Coming soon 🚀
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorchimello-tech&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vitorchimello-tech&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorchimello-tech&layout=compact&theme=tokyonight)
 
----
 
-## 🌎 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+
 
 ---
 
-⭐ *Always learning and striving to improve!*
+ *Always learning and striving to improve!*
 
 
 Here are some ideas to get you started:

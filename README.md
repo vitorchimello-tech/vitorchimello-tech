@@ -18,7 +18,7 @@
 ##  What I'm Learning
 - Java (OOP, data structures, subroutines, etc.)
 - C (basic concepts and logic)
-- Fundamentals of computer architecture and organization
+
 
 ---
 
